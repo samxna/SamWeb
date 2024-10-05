@@ -1,0 +1,13 @@
+<script language="JavaScript">
+<!--hide
+var password;
+var pass1="123456789";
+password=prompt('Enter your password to view page',' ');
+if (password==pass1)
+alert('Correct password, click OK to enter.');
+else
+{
+window.location="index.html";
+}
+//-->
+</script>
